@@ -158,3 +158,20 @@ https://d1h5atmiiic05v.cloudfront.net
 Abdulbaqi Abayomi Shatta
 
 AWS Cloud & Cybersecurity enthusiast focused on building practical cloud infrastructure and security projects.
+
+##Screenshots
+### S3 Block Public Access
+![S3 Block Public Access]
+(screenshots/s3-block-public-access.png)
+
+### CloudFront Distribution
+![CloudFront Distribution]
+(screenshots/cloudfront-distribution.png)
+
+### HTTPS Website
+![CloudFront HTTPS Website]
+(screenshots/cloudfront-ecure-web-confirmed-https.png)
+
+### Budget Consumption Setup
+![Budget Consumption Setup]
+(screenshots/budget-setup.png)
